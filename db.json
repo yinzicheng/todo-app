@@ -1,0 +1,69 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "title": "Finish project report",
+      "completed": false,
+      "dueDate": "2024-04-24",
+      "category": "Work",
+      "section": "today"
+    },
+    {
+      "id": "2",
+      "title": "Buy groceries",
+      "completed": false,
+      "dueDate": "2024-04-24",
+      "category": "Personal",
+      "section": "today"
+    },
+    {
+      "id": "3",
+      "title": "Schedule meeting with client",
+      "completed": false,
+      "dueDate": "2024-04-25",
+      "category": "Work",
+      "section": "tomorrow"
+    },
+    {
+      "id": "4",
+      "title": "Reply to urgent emails",
+      "completed": false,
+      "dueDate": "2024-04-23",
+      "category": "Urgent",
+      "section": "overdue"
+    },
+    {
+      "id": "5",
+      "title": "Review quarterly reports",
+      "completed": true,
+      "dueDate": "2024-04-22",
+      "category": "Work",
+      "section": "today"
+    },
+    {
+      "id": "6",
+      "title": "Call dentist for appointment",
+      "completed": false,
+      "dueDate": "2024-04-26",
+      "category": "Personal",
+      "section": "upcoming"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Work",
+      "color": "#1976d2"
+    },
+    {
+      "id": "2",
+      "name": "Personal",
+      "color": "#7b1fa2"
+    },
+    {
+      "id": "3",
+      "name": "Urgent",
+      "color": "#d32f2f"
+    }
+  ]
+}
